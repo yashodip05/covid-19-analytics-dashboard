@@ -1,8 +1,8 @@
-# COVID-19 Analytics Dashboard (Power BI)
+# 🎨COVID-19 Analytics Dashboard (Power BI / Excel)
 
 An end-to-end data analytics project analyzing the global and India-specific impact of COVID-19 using Power BI and Excel.
 
-Project Structure
+📂 Project Structure
 ```text
 Covid-19-Analytics/
 │

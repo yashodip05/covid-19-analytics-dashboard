@@ -2,6 +2,20 @@
 
 An end-to-end data analytics project analyzing the global and India-specific impact of COVID-19 using Power BI and Excel.
 
+## 📊 Project Overview
+This dashboard provides insights into:
+- Global and India COVID-19 case trends
+- Daily and monthly confirmed, recovered, and death cases
+- Vaccination progress (Dose 1, Dose 2, Booster)
+- Country and state-wise comparisons
+- Monthly global trends and rankings
+- Economic impact of COVID-19 using GDP indicators
+
+## 🛠 Tools Used
+- Power BI (Data Modeling, DAX, Visualization)
+- Microsoft Excel (Data Cleaning & Preparation)
+- Git & GitHub (Version Control)
+
 📂 Project Structure
 ```text
 Covid-19-Analytics/
@@ -37,19 +51,6 @@ Covid-19-Analytics/
 ├── .gitignore
 ```
 
-## 📊 Project Overview
-This dashboard provides insights into:
-- Global and India COVID-19 case trends
-- Daily and monthly confirmed, recovered, and death cases
-- Vaccination progress (Dose 1, Dose 2, Booster)
-- Country and state-wise comparisons
-- Monthly global trends and rankings
-- Economic impact of COVID-19 using GDP indicators
-
-## 🛠 Tools Used
-- Power BI (Data Modeling, DAX, Visualization)
-- Microsoft Excel (Data Cleaning & Preparation)
-- Git & GitHub (Version Control)
 
 ## 📁 Dataset Details
 - Global daily COVID-19 cases

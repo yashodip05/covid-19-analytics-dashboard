@@ -2,6 +2,41 @@
 
 An end-to-end data analytics project analyzing the global and India-specific impact of COVID-19 using Power BI and Excel.
 
+Project Structure
+```text
+Covid-19-Analytics/
+│
+├── data/
+│   ├── raw/
+│   │   ├── Country_wise_daily_new_cases.csv
+│   │   ├── covid_19_india_daily_new_cases.csv
+│   │   ├── covid_19_india_daily_new_Test_cases.csv
+│   │   ├── covid_vaccine_statewise_daily_new_selected.csv
+│   │   ├── india_gdp_loss_covid_simulated.csv
+│   │
+│   ├── processed/
+│   │   ├── covid_19_india_monthly_report.csv
+│   │   ├── monthly_new_by_country.csv
+│
+├── PowerBI/
+│   ├── Covid_19_Analytics.pbix
+│
+├── docs/
+│   ├── screenshots/
+│   │   ├── global_overview.png
+│   │   ├── india_overview.png
+│   │   ├── vaccination_analysis.png
+│   │   ├── monthly_overview.png
+│   │   ├── economic_impact.png
+│   │
+│   ├── data_dictionary.md
+│   ├── project_report.md
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+```
+
 ## 📊 Project Overview
 This dashboard provides insights into:
 - Global and India COVID-19 case trends
